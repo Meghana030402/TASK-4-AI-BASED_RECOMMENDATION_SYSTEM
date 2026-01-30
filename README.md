@@ -86,7 +86,7 @@ userID,itemID,rating
 
 # OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/efdc49b7-7d01-41c9-8bab-317af885f58f)
 
 
 
